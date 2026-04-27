@@ -1,2 +1,0 @@
-# DuurtKort.github.io
-Website
